@@ -13,3 +13,5 @@ Gold sequences:
 https://www.gaussianwaves.com/2015/06/gold-code-generator/
 
 https://ijireeice.com/wp-content/uploads/2013/03/1g-s-divya_.s.menon-_dsss.pdf
+
+RTL design of DSSS: https://github.com/mducng/G2-USI-DSSS-modulation-scheme
